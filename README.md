@@ -32,7 +32,7 @@ To build a predictive model that estimates employee salaries using various facto
 *(Screenshots included in `/screenshots` folder and PPT)*
 
 ## 🔗 Live Demo
-(If deployed via ngrok or shared video link)
+[NgrokTunnel](https://5c9c07d6d216.ngrok-free.app/)
 
 ## 🗂️ Dataset
 Original: [HRDataset_v14.csv](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
