@@ -28,9 +28,6 @@ To build a predictive model that estimates employee salaries using various facto
 ## 📈 Best Model
 🏆 **XGBoost** achieved the highest R² Score of **0.55** with RMSE of **~18,897**
 
-## 🔗 Live Demo
-[NgrokTunnel](https://5c9c07d6d216.ngrok-free.app/)
-
 ## 🗂️ Dataset
 Original: [HRDataset_v14.csv](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
